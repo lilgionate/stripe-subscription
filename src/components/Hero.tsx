@@ -48,7 +48,7 @@ export const Hero = () => {
 
 				<div className='z-10'>
 					<Image
-						src='/hero.png'
+						src='/project-1.png'
 						width={986}
 						height={512}
 						alt=''
