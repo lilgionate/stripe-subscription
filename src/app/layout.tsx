@@ -5,6 +5,8 @@ import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { Navbar } from "@/components/Navbar";
 import TanStackProvider from "@/components/providers/TanStackProvider";
 
+export const dynamic = "force-dynamic";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
