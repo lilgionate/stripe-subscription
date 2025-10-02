@@ -84,24 +84,24 @@ export const Navbar = () => {
 
 					<div className='hidden md:flex gap-2'>
 						{isAuthenticated && (
-							<Link
+							<a
 								rel='noreferrer noopener'
 								href='/api/auth/logout'
 								className={`border ${buttonVariants({ variant: "secondary" })}`}
 							>
 								Logout
 								<LogOut className='w-4 h-4 ml-2' />
-							</Link>
+							</a>
 						)}
 
 						{!isAuthenticated && (
-							<Link
+							<a
 								rel='noreferrer noopener'
 								href='/api/auth/login'
 								className={`border ${buttonVariants({ variant: "secondary" })}`}
 							>
 								Login
-							</Link>
+							</a>
 						)}
 
 						{isAuthenticated && isSubscribed && (
