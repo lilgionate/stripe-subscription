@@ -2,7 +2,7 @@
 
 ![Demo App](/public/demo-for-readme.png)
 
-[Video Tutorial on Loom]([https://youtu.be/R9PwoQwVpPQ](https://www.loom.com/share/f0ae978fbbf543049b1b40516a3da299?sid=fef7e39a-720c-4e86-9cc0-133003107b2b))
+[Video Tutorial on Loom](https://www.loom.com/share/f0ae978fbbf543049b1b40516a3da299?sid=fef7e39a-720c-4e86-9cc0-133003107b2b)
 
 Some Features:
 
